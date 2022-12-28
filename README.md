@@ -1,3 +1,12 @@
+Easy Steps to run this application:
+  - Clone the project
+  - Go to project directory
+  - Run below two commands:
+      1) npm install
+      2) ng serve
+That's it. Application will start running on http://localhost:4200/
+Note: You should have installed npm node and angular CLI
+
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
