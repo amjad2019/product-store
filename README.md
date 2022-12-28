@@ -5,6 +5,7 @@ Easy Steps to run this application:
       1) npm install
       2) ng serve
 That's it. Application will start running on http://localhost:4200/
+
 Note: You should have installed npm node and angular CLI
 
 # Store
